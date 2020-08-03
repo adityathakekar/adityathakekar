@@ -13,3 +13,5 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me: www.linkedin.com/in/adityathakekar
 - ⚡ Fun fact: Always feels like I am a begineer
 
+(https://github-readme-stats.vercel.app/api?username=adityathakekar)](https://github.com/adityathakekar/github-readme-stats)
+
