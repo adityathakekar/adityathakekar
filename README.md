@@ -12,10 +12,13 @@ Here are some ideas to get you started: -->
 - 💬 Ask me about firmware design in Embedded systems. 
 - 📫 How to reach me: www.linkedin.com/in/adityathakekar
 - ⚡ Fun fact: Always feels like I am a  
-
-
-
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityathakekar&theme=calm&show_icons=true) 
+\
+\
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api/?username=adityathakekar&theme=calm&show_icons=true&count_private=true) 
+\
+\
+\
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityathakekar&layout=compact&theme=calm)](https://github.com/adityathakekar/github-readme-stats)
 
 
 >**Keep smiling -- Life is beautiful.**
