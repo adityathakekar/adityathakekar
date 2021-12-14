@@ -13,7 +13,9 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me: www.linkedin.com/in/adityathakekar
 - ⚡ Fun fact: Always feels like I am a begineer
 
--<img src="![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityathakekar&theme=buefy&show_icons=true)/>
+[Aditya's GitHub stats]
+
+(https://github-readme-stats.vercel.app/api?username=adityathakekar&theme=buefy&show_icons=true)
 
 >**Keep smiling -- Life is beautiful.**
 
