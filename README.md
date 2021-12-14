@@ -11,7 +11,7 @@ Here are some ideas to get you started: -->
 - 🤔 I’m looking for help with code debugging and testing standards
 - 💬 Ask me about firmware design in Embedded systems. 
 - 📫 How to reach me: www.linkedin.com/in/adityathakekar
-- ⚡ Fun fact: Always feels like I am a  
+- ⚡ Fun fact: Always feels like I am a begineer
 \
 \
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api/?username=adityathakekar&theme=calm&show_icons=true&count_private=true) 
