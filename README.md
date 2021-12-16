@@ -26,7 +26,7 @@ Here are some ideas to get you started: -->
 \
 ![Twitter Follow](https://img.shields.io/twitter/follow/thakekaraditya?style=social)
 \
-![](https://komarev.com/ghpvc/?username=adityathakekar)
+![Github-views](https://komarev.com/ghpvc/?username=adityathakekar)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adityathakekar&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
