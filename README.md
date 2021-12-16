@@ -24,11 +24,12 @@ Here are some ideas to get you started: -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityathakekar&layout=compact&theme=calm)](https://github.com/adityathakekar/github-readme-stats)
 \
 \
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adityathakekar&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+\
+\
 ![Twitter Follow](https://img.shields.io/twitter/follow/thakekaraditya?style=social)
 \
 ![Github-views](https://komarev.com/ghpvc/?username=adityathakekar)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adityathakekar&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
