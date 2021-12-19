@@ -22,7 +22,7 @@ Here are some ideas to get you started: -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityathakekar&layout=compact&theme=calm)](https://github.com/adityathakekar/github-readme-stats)
 \
 \
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adityathakekar&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adityathakekar&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border=DD2727&ring=DD2727)](https://git.io/streak-stats)
 \
 \
 ![Twitter Follow](https://img.shields.io/twitter/follow/thakekaraditya?style=social)
