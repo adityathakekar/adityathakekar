@@ -25,7 +25,7 @@ Here are some ideas to get you started: -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adityathakekar&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border=DD2727&ring=DD2727)](https://git.io/streak-stats)
 \
 \
-![Twitter Follow](https://img.shields.io/twitter/follow/thakekaraditya?style=social)
+<a href="https://twitter.com/thakekaraditya" ><img src="https://img.shields.io/twitter/follow/thakekaraditya.svg?style=social" /> </a>
 \
 ![Github-views](https://komarev.com/ghpvc/?username=adityathakekar)
 
