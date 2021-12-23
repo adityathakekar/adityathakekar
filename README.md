@@ -51,7 +51,6 @@ Here are some ideas to get you started: -->
 
 <!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/adityathakekar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="adityathakekar" /></a></p><br><br>
