@@ -17,6 +17,7 @@ Here are some ideas to get you started: -->
 \
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api/?username=adityathakekar&theme=calm&show_icons=true&count_private=true)
 \
+\
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityathakekar&layout=compact&theme=calm)](https://github.com/adityathakekar/github-readme-stats)
 \
 \
@@ -25,8 +26,11 @@ Here are some ideas to get you started: -->
 \
 <a href="https://twitter.com/thakekaraditya" ><img src="https://img.shields.io/twitter/follow/thakekaraditya.svg?style=social" /> </a>
 \
+\
 ![Github-views](https://komarev.com/ghpvc/?username=adityathakekar)
-
+\
+\
+[![Aditya's Github readme activity](https://readmegraph.herokuapp.com/graph?username=adityathakekar&theme=react-dark)](https://github.com/adityathakekar/github-readme-activity-graph)
 
 ## Blog posts
 
