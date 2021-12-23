@@ -49,8 +49,9 @@ Here are some ideas to get you started: -->
 <a href="https://www.nordicsemi.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Nordic_Semiconductor_Company_Logo.svg" alt="NRF" width="40" height="40"/> </a><a href="https://www.bluetooth.com//" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Bluetooth.svg" alt="NRF" width="40" height="40"/> </a>
 </p>
 
-"<!--START_SECTION:activity-->".
+<!--START_SECTION:activity-->
 
+<!--END_SECTION:activity-->
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/adityathakekar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="adityathakekar" /></a></p><br><br>
