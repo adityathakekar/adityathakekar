@@ -15,9 +15,7 @@ Here are some ideas to get you started: -->
 - ⚡ Fun fact: Always feels like I am a begineer
 \
 \
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api/?username=adityathakekar&theme=calm&show_icons=true&count_private=true) 
-\
-\
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api/?username=adityathakekar&theme=calm&show_icons=true&count_private=true)
 \
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityathakekar&layout=compact&theme=calm)](https://github.com/adityathakekar/github-readme-stats)
 \
