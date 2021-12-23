@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aditya Thakekar</h1>
+<h1 align="center">Hi, <img src="https://github.com/adityathakekar/adityathakekar/blob/master/wave.gif" width="30px"> , I'm Aditya Thakekar </h1> 
 <h3 align="center">A passionate Embedded Firmware Developer from India</h3>
 
 <!--
