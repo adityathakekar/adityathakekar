@@ -1,39 +1,110 @@
-name: generate animation
+name: main
 
-on:
-  # run automatically every 6 hours
-  schedule:
-    - cron: "0 */6 * * *" 
-  
-  # allows to manually run the job at any time
-  workflow_dispatch:
-  
-  # run on every push on the master branch
-  push:
-    branches:
-    - master
-    
-  
+on: [push]
 
 jobs:
-  generate:
+  test:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
 
     steps:
-      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
-      - name: generate github-contribution-grid-snake.svg
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          cache: yarn
+          node-version: 16
+      - run: yarn install --frozen-lockfile
+
+      - run: yarn type
+      - run: yarn lint
+      - run: yarn test --ci
+
+  test-benchmark:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          cache: yarn
+          node-version: 16
+      - run: yarn install --frozen-lockfile
+
+      - run: ( cd packages/gif-creator ; yarn benchmark )
+
+  test-action:
+    runs-on: ubuntu-latest
+    needs: build-docker-image
+
+    steps:
+      - name: generate-snake-game-from-github-contribution-grid
+        id: snake-gif
         uses: Platane/snk@master
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: adityathakekar
+          gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      # push the content of <build_dir> to a branch
-      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
-      - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v2.5.0
+      - name: ensure the generated file exists
+        run: |
+          ls -l ${{ steps.snake-gif.outputs.gif_out_path }}
+          test -f ${{ steps.snake-gif.outputs.gif_out_path }}
+
+      - uses: crazy-max/ghaction-github-pages@v2.5.0
         with:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN_GH_PAGES }}
+
+  deploy-ghpages:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          cache: yarn
+          node-version: 16
+      - run: yarn install --frozen-lockfile
+
+      - run: yarn build:demo
+        env:
+          GITHUB_USER_CONTRIBUTION_API_ENDPOINT: https://snk-one.vercel.app/api/github-user-contribution/
+
+      - uses: crazy-max/ghaction-github-pages@v2.5.0
+        if: success() && github.ref == 'refs/heads/master'
+        with:
+          target_branch: gh-pages
+          build_dir: packages/demo/dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN_GH_PAGES }}
+
+  build-docker-image:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          cache: yarn
+          node-version: 16
+      - run: yarn install --frozen-lockfile
+
+      - run: yarn build:action
+
+      - uses: docker/setup-qemu-action@v1
+
+      - uses: docker/setup-buildx-action@v1
+
+      - uses: docker/login-action@v1
+        with:
+          username: ${{ secrets.DOCKERHUB_USERNAME }}
+          password: ${{ secrets.DOCKERHUB_TOKEN }}
+
+      - uses: docker/build-push-action@v2
+        id: docker_build
+        with:
+          push: ${{ github.ref == 'refs/heads/master' }}
+          tags: |
+            platane/snk:latest
+            platane/snk:${{ github.sha }}
+          file: packages/action/Dockerfile
+          context: packages/action
