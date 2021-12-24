@@ -21,7 +21,7 @@ Here are some ideas to get you started: -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityathakekar&layout=compact&theme=calm)](https://github.com/adityathakekar/github-readme-stats)
 \
 \
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adityathakekar&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border=DD2727&ring=DD2727)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adityathakekar&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=3DB8DD&sideNums=FFFFFF&ring=3DB8DD&fire=3DB8DD&currStreakLabel=FFFFFF&background=000000)](https://git.io/streak-stats)
 \
 \
 <a href="https://twitter.com/thakekaraditya" ><img src="https://img.shields.io/twitter/follow/thakekaraditya.svg?style=social" /> </a>
@@ -55,6 +55,9 @@ Here are some ideas to get you started: -->
 3. 🗣 Commented on [#288](https://github.com/OpenEVSE/ESP32_WiFi_V4.x/issues/288) in [OpenEVSE/ESP32_WiFi_V4.x](https://github.com/OpenEVSE/ESP32_WiFi_V4.x)
 4. 🗣 Commented on [#1326](https://github.com/FastLED/FastLED/issues/1326) in [FastLED/FastLED](https://github.com/FastLED/FastLED)
 <!--END_SECTION:activity-->
+
+![snake gif](https://github.com/adityathakekar/adityathakekar/blob/output/github-contribution-grid-snake.svg)
+
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/adityathakekar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="adityathakekar" /></a></p><br><br>
