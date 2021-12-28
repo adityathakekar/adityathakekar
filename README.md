@@ -76,10 +76,10 @@ Here are some ideas to get you started: -->
 <h2 align="center">  Special Thanks: </h2>
 
 <details>
-          <summary>Click to expand!</summary>
+          <summary align ="center">👇👇 Click to Expand !! 👇👇</summary>
 <figure class="highlight">
     <pre>
-        <code class="language-ruby" data-lang="ruby">
+        <code class="c++" data-lang="c++">
         <span class="nb"></span> <span class="s1">Eddiejaoude - "https://www.github.com/eddiejaoude/"</span>
         </code>
     </pre>
