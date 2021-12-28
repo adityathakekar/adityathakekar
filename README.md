@@ -13,7 +13,7 @@ Here are some ideas to get you started: -->
 - 👯 I’m looking to collaborate on Bluetooth Mesh protocol, ibeacon, eddystone, Wifi Mesh. [Zephyr](https://github.com/zephyrproject-rtos/zephyr)
 - 🤔 I’m looking for help with code debugging and testing standards
 - 💬 Ask me about firmware design in Embedded systems. 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/adityathakekar) & :love_letter: [Mail](connect@adityathakekar.com)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/adityathakekar) & :love_letter: [Mail](mailto:connect@adityathakekar.com)
 - ⚡ Fun fact: Always feels like I am a begineer
 
 <h2 align="center">  📈 Stats: </h2>
