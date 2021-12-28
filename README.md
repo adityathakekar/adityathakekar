@@ -73,10 +73,19 @@ Here are some ideas to get you started: -->
 
 ![snake gif](https://github.com/adityathakekar/adityathakekar/blob/output/github-contribution-grid-snake.svg)
 
+<h2 align="center">  Special Thanks: </h2>
 
+<details>
+          <summary>Click to expand!</summary>
+<figure class="highlight">
+    <pre>
+        <code class="language-ruby" data-lang="ruby">
+        <span class="nb"></span> <span class="s1">Eddiejaoude - "https://www.github.com/eddiejaoude/"</span>
+        </code>
+    </pre>
+</figure>
+</details>
 
 <h2 align="center">   Support: </h2>
-<p align= "center" > 
-	<a href="https://www.buymeacoffee.com/adityathakekar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="adityathakekar" /></a>
-</p><br><br>
-
+<p align= "center" >
+	<a href="https://www.buymeacoffee.com/adityathakekar"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="adityathakekar" /></a> </p>
