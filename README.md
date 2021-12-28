@@ -16,7 +16,7 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me: www.linkedin.com/in/adityathakekar
 - ⚡ Fun fact: Always feels like I am a begineer
 
-## 📈 Stats
+## 📈 Stats:
 <p align="center">
 	
   <img width="48%" height= "200" src="https://github-readme-stats.vercel.app/api/?username=adityathakekar&theme=calm&show_icons=true&count_private=true" />
