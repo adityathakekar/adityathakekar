@@ -17,13 +17,14 @@ Here are some ideas to get you started: -->
 ## 📈 Stats
 <p align="center">
 	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/?username=adityathakekar&theme=calm&show_icons=true&count_private=true" />
-  <img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=adityathakekar&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=3DB8DD&sideNums=FFFFFF&ring=3DB8DD&fire=3DB8DD&currStreakLabel=FFFFFF&background=000000" />
+  <img width="48%" height= "200" src="https://github-readme-stats.vercel.app/api/?username=adityathakekar&theme=calm&show_icons=true&count_private=true" />
+  <img width="48%" height= "200" src="http://github-readme-streak-stats.herokuapp.com?user=adityathakekar&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=3DB8DD&sideNums=FFFFFF&ring=3DB8DD&fire=3DB8DD&currStreakLabel=FFFFFF&background=000000" />
 </p>
 
 <p align="center">
-	<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityathakekar&layout=compact&theme=calm"/>
-  </p>
+	<img width="48%" height= "200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityathakekar&layout=compact&theme=calm"/>
+        <img width="48%" height= "200" src= "https://github.com/adityathakekar/github-stats/blob/master/generated/languages.svg" />
+</p>
 
 <a href="https://twitter.com/thakekaraditya" ><img src="https://img.shields.io/twitter/follow/thakekaraditya.svg?style=social" /> </a>
 \
