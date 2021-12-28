@@ -67,10 +67,10 @@ Here are some ideas to get you started: -->
 <h2 align="center">  Recent : </h2>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3167](https://github.com/EddieHubCommunity/support/issues/3167) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. ❌ Closed PR [#1](https://github.com/Yuriy-Pelekh/catalina-dynamic-wallpaper-on-ubuntu/pull/1) in [Yuriy-Pelekh/catalina-dynamic-wallpaper-on-ubuntu](https://github.com/Yuriy-Pelekh/catalina-dynamic-wallpaper-on-ubuntu)
-3. 🗣 Commented on [#288](https://github.com/OpenEVSE/ESP32_WiFi_V4.x/issues/288) in [OpenEVSE/ESP32_WiFi_V4.x](https://github.com/OpenEVSE/ESP32_WiFi_V4.x)
-4. 🗣 Commented on [#1326](https://github.com/FastLED/FastLED/issues/1326) in [FastLED/FastLED](https://github.com/FastLED/FastLED)
+1. 💪 Opened PR [#941](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/941) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+2. ❗️ Opened issue [#940](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/940) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+3. ❗️ Opened issue [#3167](https://github.com/EddieHubCommunity/support/issues/3167) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+4. ❌ Closed PR [#1](https://github.com/Yuriy-Pelekh/catalina-dynamic-wallpaper-on-ubuntu/pull/1) in [Yuriy-Pelekh/catalina-dynamic-wallpaper-on-ubuntu](https://github.com/Yuriy-Pelekh/catalina-dynamic-wallpaper-on-ubuntu)
 <!--END_SECTION:activity-->
 
 
