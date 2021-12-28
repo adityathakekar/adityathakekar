@@ -8,12 +8,12 @@ Here are some ideas to get you started: -->
 
 <h2 align="center"> About Me: </h2>
 
-- 🔭 I’m currently working on Wireless products, Internet of things applications. 
-- 🌱 I’m currently learning  Bluetooth and API for IoT applications
-- 👯 I’m looking to collaborate on Bluetooth Mesh protocol, ibeacon, eddystone, Wifi Mesh.
+- 🔭 I’m currently working on Wireless products, Internet of things applications.  :sparkles:  
+- 🌱 I’m currently learning  Bluetooth and API for IoT applications  :thought_balloon: [ESP32](https://github.com/espressif/esp-idf) 
+- 👯 I’m looking to collaborate on Bluetooth Mesh protocol, ibeacon, eddystone, Wifi Mesh. [Zephyr](https://github.com/zephyrproject-rtos/zephyr)
 - 🤔 I’m looking for help with code debugging and testing standards
 - 💬 Ask me about firmware design in Embedded systems. 
-- 📫 How to reach me: www.linkedin.com/in/adityathakekar
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/adityathakekar) & :love_letter: [Mail](connect@adityathakekar.com)
 - ⚡ Fun fact: Always feels like I am a begineer
 
 <h2 align="center">  📈 Stats: </h2>
@@ -77,13 +77,7 @@ Here are some ideas to get you started: -->
 
 <details>
           <summary align ="center">👇👇 Click to Expand !! 👇👇</summary>
-<figure class="highlight">
-    <pre>
-        <code class="c++" data-lang="c++">
-        <span class="nb"></span> <span class="s1">Eddiejaoude - "https://www.github.com/eddiejaoude/"</span>
-        </code>
-    </pre>
-</figure>
+          <p align= "center"> Eddie Jaoude https://github.com/eddiejaoude/ </p>
 </details>
 
 <h2 align="center">   Support: </h2>
