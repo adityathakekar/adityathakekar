@@ -28,11 +28,6 @@ Here are some ideas to get you started: -->
         <img width="48%" height= "200" src= "https://github.com/adityathakekar/github-stats/blob/master/generated/languages.svg" />
 </p>
 
-<p align="center">
-	<img width="30%"  src="https://img.shields.io/twitter/follow/thakekaraditya.svg?style=social" /> 	
-	<img width="20%"  src="https://komarev.com/ghpvc/?username=adityathakekar" /> 
-	
-	
 
 <h2 align="center"> Activity: </h2>
 
@@ -53,6 +48,8 @@ Here are some ideas to get you started: -->
 <a href="https://linkedin.com/in/adityathakekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityathakekar" height="30" width="40" /></a>
 <a href="https://medium.com/@adityathakekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="adityathakekar" height="30" width="40" /></a>
 <a href="https://dev.to/adityathakekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="adityathakekar" height="30" width="40" /></a>
+<a href="https://twitter.com/thakekaraditya">	<img align="center" src="https://img.shields.io/twitter/follow/thakekaraditya.svg?style=social" /> 	</a>
+<a href="https://twitter.com/thakekaraditya">	<img align="center" src="https://komarev.com/ghpvc/?username=adityathakekar" />  </a>
 </p>
   
 
