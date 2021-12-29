@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started: -->
 
-<h2 align="center"> About Me: </h2>
+<h2 align="center"> About Me: </h2> <a href= "git"> <img align= "right" height="220" src ="https://github.com/adityathakekar/adityathakekar/blob/master/git.gif"> </a>
 
 - 🔭 I’m currently working on Wireless products, Internet of things applications.  :sparkles:  
 - 🌱 I’m currently learning  Bluetooth and API for IoT applications  :thought_balloon: [ESP32](https://github.com/espressif/esp-idf) 
