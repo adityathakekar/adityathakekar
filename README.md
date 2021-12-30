@@ -36,7 +36,7 @@ Here are some ideas to get you started: -->
 
 <details>
 	 <summary align= "center"> More Stats  </summary>  
-	<p> <img src= "https://metrics.lecoq.io/adityathakekar?template=classic&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta"/> </p>
+	 <p align = "center"> <img src= "https://github.com/adityathakekar/adityathakekar/blob/master/github-metrics.svg"/> </p>
 </details>
 
 
@@ -56,8 +56,12 @@ Here are some ideas to get you started: -->
 <a href="https://medium.com/@adityathakekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="adityathakekar" height="30" width="40" /></a>
 <a href="https://dev.to/adityathakekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="adityathakekar" height="30" width="40" /></a>
 <a href="https://twitter.com/thakekaraditya">	<img align="center" src="https://img.shields.io/twitter/follow/thakekaraditya.svg?style=social" /> 	</a>
-<a href="https://twitter.com/thakekaraditya">	<img align="center" src="https://komarev.com/ghpvc/?username=adityathakekar" />  </a>
+<a href="https://twitter.com/thakekaraditya">	<img align="center" src="https://komarev.com/ghpvc/?username=adityathakekar" />  </a> 
+<a href ="https://open.spotify.com/playlist/4pgl8mxRhgSAeVH9AZIlnG" target="_blank" rel="noreferrer">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Spotify_logo_with_text.svg" alt= "spotify" height="50" width="15%"/> </a> 
 </p>
+
+
   
 
 <h2 align="center">  Languages & Tools: </h2>
@@ -80,13 +84,20 @@ Here are some ideas to get you started: -->
 
 ![snake gif](https://github.com/adityathakekar/adityathakekar/blob/output/github-contribution-grid-snake.svg)
 
+ 
 <h2 align="center">  Special Thanks: </h2>
 
 <details>
           <summary align ="center">👇👇 Click to Expand !! 👇👇</summary>
           <p align= "center"> Eddie Jaoude https://github.com/eddiejaoude/ </p>
+	
 </details>
 
+																	     
 <h2 align="center">   Support: </h2>
 <p align= "center" >
 	<a href="https://www.buymeacoffee.com/adityathakekar"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="adityathakekar" /></a> </p>
+	
+
+
+
