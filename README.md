@@ -34,6 +34,13 @@ Here are some ideas to get you started: -->
 [![Aditya's Github readme activity](https://readmegraph.herokuapp.com/graph?username=adityathakekar&theme=gotham)](https://github.com/adityathakekar/github-readme-activity-graph)
 
 
+<details>
+	 <summary align= "center"> More Stats  </summary>  
+	<p> <img src= "https://metrics.lecoq.io/adityathakekar?template=classic&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta"/> </p>
+</details>
+
+
+
 
 <h2 align="center"> Blog posts: </h2>
 
