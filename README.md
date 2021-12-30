@@ -55,10 +55,11 @@ Here are some ideas to get you started: -->
 <a href="https://linkedin.com/in/adityathakekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityathakekar" height="30" width="40" /></a>
 <a href="https://medium.com/@adityathakekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="adityathakekar" height="30" width="40" /></a>
 <a href="https://dev.to/adityathakekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="adityathakekar" height="30" width="40" /></a>
+<a href ="https://open.spotify.com/playlist/4pgl8mxRhgSAeVH9AZIlnG">
+<img align= "center" src="https://upload.wikimedia.org/wikipedia/commons/2/26/Spotify_logo_with_text.svg" alt= "spotify" height="50" width="15%"/> </a> 
 <a href="https://twitter.com/thakekaraditya">	<img align="center" src="https://img.shields.io/twitter/follow/thakekaraditya.svg?style=social" /> 	</a>
-<a href="https://twitter.com/thakekaraditya">	<img align="center" src="https://komarev.com/ghpvc/?username=adityathakekar" />  </a> 
-<a href ="https://open.spotify.com/playlist/4pgl8mxRhgSAeVH9AZIlnG" target="_blank" rel="noreferrer">
-	<img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Spotify_logo_with_text.svg" alt= "spotify" height="50" width="15%"/> </a> 
+<a href="https://github.com/adityathakekar">	<img align="center" src="https://en2ia68dlyr08t7.m.pipedream.net" />  </a> 
+
 </p>
 
 
