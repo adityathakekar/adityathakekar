@@ -1,0 +1,6 @@
+- uses: lowlighter/metrics@latest
+  with:
+    # ... other options
+    plugin_music: yes
+    plugin_music_limit: 10               # Limit to 4 entries
+    plugin_music_playlist: <iframe src="https://open.spotify.com/embed/playlist/4pgl8mxRhgSAeVH9AZIlnG?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>)
