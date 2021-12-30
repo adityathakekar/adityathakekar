@@ -57,7 +57,7 @@ Here are some ideas to get you started: -->
 <a href="https://dev.to/adityathakekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="adityathakekar" height="30" width="40" /></a>
 <a href="https://twitter.com/thakekaraditya">	<img align="center" src="https://img.shields.io/twitter/follow/thakekaraditya.svg?style=social" /> 	</a>
 <a href="https://github.com/adityathakekar">	<img align="center" src="https://en2ia68dlyr08t7.m.pipedream.net" />  </a> 
-<a href ="https://open.spotify.com/playlist/4pgl8mxRhgSAeVH9AZIlnG" target="spotify"> <img align= "center" height ="100"  src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31zm3tpwmunhfzdpvs4gi5x5qd3y&cover_image=false&theme=novatorem&bar_color=684eb1&bar_color_cover=true" /> </a>	
+<a href ="https://open.spotify.com/playlist/4pgl8mxRhgSAeVH9AZIlnG" target="spotify"> <img align ="center"src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31zm3tpwmunhfzdpvs4gi5x5qd3y&cover_image=false&theme=novatorem&bar_color=684eb1&bar_color_cover=true" /> </a> 
 </p>
 
 <h2 align="center">  Languages & Tools: </h2>
