@@ -57,7 +57,8 @@ Here are some ideas to get you started: -->
 <a href="https://dev.to/adityathakekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="adityathakekar" height="30" width="40" /></a>
 <a href="https://twitter.com/thakekaraditya">	<img align="center" src="https://img.shields.io/twitter/follow/thakekaraditya.svg?style=social" /> 	</a>
 <a href="https://github.com/adityathakekar">	<img align="center" src="https://en2ia68dlyr08t7.m.pipedream.net" />  </a> 
-<a href ="https://open.spotify.com/playlist/4pgl8mxRhgSAeVH9AZIlnG" target="spotify"> <img align ="center"src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31zm3tpwmunhfzdpvs4gi5x5qd3y&cover_image=false&theme=novatorem&bar_color=684eb1&bar_color_cover=true" /> </a> 
+<a href ="https://open.spotify.com/playlist/4pgl8mxRhgSAeVH9AZIlnG" target="spotify"> <img align ="center"src="https://spotify-github-aditya.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" /> </a> 
+	
 </p>
 
 <h2 align="center">  Languages & Tools: </h2>
@@ -93,3 +94,5 @@ Here are some ideas to get you started: -->
 <h2 align="center">   Support: </h2>
 <p align= "center" >
 	<a href="https://www.buymeacoffee.com/adityathakekar"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="adityathakekar" /></a> </p>
+
+[![Spotify](https://spotify-github-aditya.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/playlist/4pgl8mxRhgSAeVH9AZIlnG?si=09c1ef484bed4d47)
