@@ -86,7 +86,8 @@ Here are some ideas to get you started: -->
 
 <details>
           <summary align ="center">👇👇 Click to Expand !! 👇👇</summary>
-          <p align= "center"> Eddie Jaoude https://github.com/eddiejaoude/ </p>
+          <p align= "center">  <a href ="https://github.com/eddiejaoude/"> <img src="https://avatars.githubusercontent.com/u/624760?v=4" width="10%"/> </a> 
+	  <h3 align = "center"> Eddie Jaoude </h3> </p>
 	
 </details>
 
