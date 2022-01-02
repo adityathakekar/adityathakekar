@@ -72,9 +72,9 @@ Here are some ideas to get you started: -->
 <h2 align="center">  Recent : </h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#941](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/941) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-2. 💪 Opened PR [#941](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/941) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-3. ❗️ Opened issue [#940](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/940) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+1. 🗣 Commented on [#952](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/952) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+2. ❗️ Opened issue [#65](https://github.com/Devs-Dungeon/support/issues/65) in [Devs-Dungeon/support](https://github.com/Devs-Dungeon/support)
+3. 🗣 Commented on [#941](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/941) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
 4. ❌ Closed PR [#1](https://github.com/Yuriy-Pelekh/catalina-dynamic-wallpaper-on-ubuntu/pull/1) in [Yuriy-Pelekh/catalina-dynamic-wallpaper-on-ubuntu](https://github.com/Yuriy-Pelekh/catalina-dynamic-wallpaper-on-ubuntu)
 <!--END_SECTION:activity-->
 
