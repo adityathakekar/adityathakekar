@@ -16,5 +16,5 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          COMMIT_MSG: adding max lines to 20
+          COMMIT_MSG: 'adding commit - 20' 
           MAX_LINES: 20
