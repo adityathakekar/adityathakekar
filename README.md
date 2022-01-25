@@ -7,8 +7,8 @@
 
 Here are some ideas to get you started: -->
 
-<h2 align="center"> About Me: </h2> <a href= "git"> <img align= "right" height="200" src ="https://github.com/adityathakekar/adityathakekar/blob/master/git.gif"> 
-	<a href="https://app.daily.dev/adityathakekar"> <img align ="right" src="https://api.daily.dev/devcards/8eaa667983064057bfeac48b1b175cc4.png?r=z0q" width="150" alt="Aditya Thakekar's Dev Card"/></a>
+<h2 align="center"> About Me: </h2> <a href= "git"> <img align= "right" height="200" width="200" src ="https://github.com/adityathakekar/adityathakekar/blob/master/git.gif"> 
+	<a href="https://app.daily.dev/adityathakekar"> <img align ="right" src="https://github.com/adityathakekar/adityathakekar/blob/master/devcard.svg" width="200" alt="Aditya Thakekar's Dev Card"/></a>
 
 
 - 🔭 I’m currently working on Wireless products, Internet of things applications.  :sparkles:  
