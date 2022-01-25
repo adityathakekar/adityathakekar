@@ -1,12 +1,15 @@
 <h1 align="center">Hi <img src="https://github.com/adityathakekar/adityathakekar/blob/master/wave.gif" width="30px"> , I'm Aditya Thakekar </h1> 
-<h3 align="center">A passionate Embedded Firmware Developer from India</h3>
+
+<h3 align="center">A passionate Embedded Firmware Developer from India</h3> 
 
 <!--
 **adityathakekar/adityathakekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
 
-<h2 align="center"> About Me: </h2> <a href= "git"> <img align= "right" height="200" src ="https://github.com/adityathakekar/adityathakekar/blob/master/git.gif"> </a>
+<h2 align="center"> About Me: </h2> <a href= "git"> <img align= "right" height="200" src ="https://github.com/adityathakekar/adityathakekar/blob/master/git.gif"> 
+	<a href="https://app.daily.dev/adityathakekar"> <img align ="right" src="https://api.daily.dev/devcards/8eaa667983064057bfeac48b1b175cc4.png?r=z0q" width="150" alt="Aditya Thakekar's Dev Card"/></a>
+
 
 - 🔭 I’m currently working on Wireless products, Internet of things applications.  :sparkles:  
 - 🌱 I’m currently learning  Bluetooth and API for IoT applications  :thought_balloon: [ESP32](https://github.com/espressif/esp-idf) 
