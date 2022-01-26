@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started: -->
 
-<h2 align="center"> About Me: </h2> <a href= "git"> <img align= "right" height="200" width="200" src ="https://github.com/adityathakekar/adityathakekar/blob/master/assests/git.gif"> 
+<h2 align="center"> About Me: </h2> <a href= "git"> 
 	<a href="https://app.daily.dev/adityathakekar"> <img align ="right" src="https://github.com/adityathakekar/adityathakekar/blob/master/assests/devcard.svg" width="200" alt="Aditya Thakekar's Dev Card"/></a>
 
 
@@ -18,6 +18,9 @@ Here are some ideas to get you started: -->
 - 💬 Ask me about firmware design in Embedded systems. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/adityathakekar) & :love_letter: [Mail](mailto:connect@adityathakekar.com)
 - ⚡ Fun fact: Always feels like I am a begineer
+	
+<br>
+<br>
 
 <h2 align="center">  📈 Stats: </h2>
 <p align="center">
@@ -114,13 +117,16 @@ Here are some ideas to get you started: -->
 	
 </details>
 
-<h2 align= "center"> Discussions: </h2>
+<img align= "right" height="300" width="300" src ="https://github.com/adityathakekar/adityathakekar/blob/master/assests/git.gif"> 
+<br>
+<br>
+<h2 align= "left"> Discussions: </h2>
 
 * 💬 :[Lets discuss and share ideas here](https://github.com/adityathakekar/adityathakekar/discussions/1)
 	
 	
-<h2 align="center">   Support: </h2>
-<p align= "center" >
+<h2 align="left">   Support: </h2>
+<p align= "left" >
 	<a href="https://www.buymeacoffee.com/adityathakekar"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="adityathakekar" /></a> </p>
 
 
