@@ -39,7 +39,7 @@ Here are some ideas to get you started: -->
 
 <details>
 	 <summary align= "center"> More Stats  </summary>  
-	 <p align = "center"> <img src= "https://github.com/adityathakekar/adityathakekar/blob/master/github-metrics.svg"/> </p>
+	 <p align = "center"> <img src= "https://github.com/adityathakekar/adityathakekar/blob/master/assests/github-metrics.svg"/> </p>
 </details>
 
 
