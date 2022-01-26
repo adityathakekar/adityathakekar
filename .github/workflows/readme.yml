@@ -1,0 +1,169 @@
+name: main
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 * * * *'
+
+jobs:
+  Devcard: 
+    name: Daily.dev devcard
+    runs-on: ubuntu-latest
+    steps:
+      - name: devcard
+        uses: dailydotdev/action-devcard@2.0.5
+        with:
+          devcard_id: ${{ secrets.DEVCARD_ID }}
+          
+   
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Pull in dev.to posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: "20"
+          feed_list: "https://dev.to/feed/gautamkrishnar,https://www.gautamkrishnar.com/feed/"
+          
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+         token: ${{ secrets.METRICS_TOKEN }}
+
+          # Options
+          user: adityathakekar
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Calcutta
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          plugin_stargazers: yes
+          
+          name: Update README
+
+  build:
+    runs-on: ubuntu-latest
+    name: Update this repo's README with recent activity
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{secrets.METRICS_TOKEN}}
+        with:
+          COMMIT_MSG: 'Update Activity'
+          MAX_LINES: 10
+
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          cache: yarn
+          node-version: 16
+      - run: yarn install --frozen-lockfile
+
+      - run: yarn type
+      - run: yarn lint
+      - run: yarn test --ci
+
+  test-benchmark:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          cache: yarn
+          node-version: 16
+      - run: yarn install --frozen-lockfile
+
+      - run: ( cd packages/gif-creator ; yarn benchmark )
+
+  test-action:
+    runs-on: ubuntu-latest
+    needs: build-docker-image
+
+    steps:
+      - name: generate-snake-game-from-github-contribution-grid
+        id: snake-gif
+        uses: Platane/snk@master
+        with:
+          github_user_name: adityathakekar
+          gif_out_path: dist/github-contribution-grid-snake.gif
+          svg_out_path: dist/github-contribution-grid-snake.svg
+
+      - name: ensure the generated file exists
+        run: |
+          ls -l ${{ steps.snake-gif.outputs.gif_out_path }}
+          test -f ${{ steps.snake-gif.outputs.gif_out_path }}
+
+      - uses: crazy-max/ghaction-github-pages@v2.5.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN_GH_PAGES }}
+
+  deploy-ghpages:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          cache: yarn
+          node-version: 16
+      - run: yarn install --frozen-lockfile
+
+      - run: yarn build:demo
+        env:
+          GITHUB_USER_CONTRIBUTION_API_ENDPOINT: https://snk-one.vercel.app/api/github-user-contribution/
+
+      - uses: crazy-max/ghaction-github-pages@v2.5.0
+        if: success() && github.ref == 'refs/heads/master'
+        with:
+          target_branch: gh-pages
+          build_dir: packages/demo/dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN_GH_PAGES }}
+
+  build-docker-image:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          cache: yarn
+          node-version: 16
+      - run: yarn install --frozen-lockfile
+
+      - run: yarn build:action
+
+      - uses: docker/setup-qemu-action@v1
+
+      - uses: docker/setup-buildx-action@v1
+
+      - uses: docker/login-action@v1
+        with:
+          username: ${{ secrets.DOCKERHUB_USERNAME }}
+          password: ${{ secrets.DOCKERHUB_TOKEN }}
+
+      - uses: docker/build-push-action@v2
+        id: docker_build
+        with:
+          push: ${{ github.ref == 'refs/heads/master' }}
+          tags: |
+            platane/snk:latest
+            platane/snk:${{ github.sha }}
+          file: packages/action/Dockerfile
+          context: packages/action
