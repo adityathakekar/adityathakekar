@@ -1,4 +1,4 @@
-name: DevCard
+name: Devcard
 
 on:
   workflow_dispatch:
@@ -6,7 +6,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: "0 10 * * 1"
+    - cron: '0 * * * *'
 
 jobs:
   devcard:
@@ -16,3 +16,11 @@ jobs:
         uses: dailydotdev/action-devcard@2.0.5
         with:
           devcard_id: ${{ secrets.DEVCARD_ID }}
+          
+      - name: update-readme-with-blog
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: "20"
+          feed_list: "https://dev.to/feed/gautamkrishnar,https://www.gautamkrishnar.com/feed/"
+
