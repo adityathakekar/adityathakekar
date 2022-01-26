@@ -53,7 +53,7 @@ jobs:
      -  name: generate github-contribution-grid-snake.svg
         uses: Platane/snk@master
         with:
-          github_user_name: ${{ adityathakekar }}
+          github_user_name: ${{ github.adityathakekar }}
           svg_out_path: dist/github-contribution-grid-snake.svg
           
      -  name: push github-contribution-grid-snake.svg to the output branch
