@@ -100,7 +100,7 @@ Here are some ideas to get you started: -->
 <!--END_SECTION:activity-->
 
 
-![snake gif](https://github.com/adityathakekar/adityathakekar/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/adityathakekar/adityathakekar/blob/output/github.svg)
 
 
 
