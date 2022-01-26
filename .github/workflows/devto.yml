@@ -1,4 +1,4 @@
-name: Devcard
+name: Multiple Cron jobs
 
 on:
   workflow_dispatch:
@@ -9,7 +9,7 @@ on:
     - cron: '0 * * * *'
 
 jobs:
-  devcard:
+  multiple-cron-jobs: 
     runs-on: ubuntu-latest
     steps:
       - name: devcard
@@ -17,10 +17,16 @@ jobs:
         with:
           devcard_id: ${{ secrets.DEVCARD_ID }}
           
-      - name: update-readme-with-blog
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+   
+
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Pull in dev.to posts
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "20"
           feed_list: "https://dev.to/feed/gautamkrishnar,https://www.gautamkrishnar.com/feed/"
-
