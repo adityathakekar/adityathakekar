@@ -7,8 +7,8 @@
 
 Here are some ideas to get you started: -->
 
-<h2 align="center"> About Me: </h2> <a href= "git"> <img align= "right" height="200" width="200" src ="https://github.com/adityathakekar/adityathakekar/blob/master/git.gif"> 
-	<a href="https://app.daily.dev/adityathakekar"> <img align ="right" src="https://github.com/adityathakekar/adityathakekar/blob/master/devcard.svg" width="200" alt="Aditya Thakekar's Dev Card"/></a>
+<h2 align="center"> About Me: </h2> <a href= "git"> <img align= "right" height="200" width="200" src ="https://github.com/adityathakekar/adityathakekar/blob/master/assests/git.gif"> 
+	<a href="https://app.daily.dev/adityathakekar"> <img align ="right" src="https://github.com/adityathakekar/adityathakekar/blob/master/assests/devcard.svg" width="200" alt="Aditya Thakekar's Dev Card"/></a>
 
 
 - 🔭 I’m currently working on Wireless products, Internet of things applications.  :sparkles:  
@@ -69,7 +69,7 @@ Here are some ideas to get you started: -->
 <!-- BLOG-POST-LIST:END -->
 
 
-<h2 align="center"> Connect with me: <a> <img src="https://github.com/adityathakekar/adityathakekar/blob/master/connect.gif" height="32"> </a></h2>
+<h2 align="center"> Connect with me: <a> <img src="https://github.com/adityathakekar/adityathakekar/blob/master/assests/connect.gif" height="32"> </a></h2>
 
 <p align="left">
 <a href="https://twitter.com/thakekaraditya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thakekaraditya" height="30" width="40" /></a>
