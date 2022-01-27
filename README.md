@@ -8,7 +8,7 @@
 Here are some ideas to get you started: -->
 
 <h2 align="center"> About Me: </h2> <a href= "git"> 
-	<a href="https://app.daily.dev/adityathakekar"> <img align ="right" src="https://github.com/adityathakekar/adityathakekar/blob/master/assests/devcard.svg" width="200" alt="Aditya Thakekar's Dev Card"/></a>
+	<a href="https://app.daily.dev/adityathakekar"> <img align ="right" src="https://github.com/adityathakekar/adityathakekar/blob/master/devcard.svg" width="200" alt="Aditya Thakekar's Dev Card"/></a>
 
 
 - 🔭 I’m currently working on Wireless products, Internet of things applications.  :sparkles:  
@@ -42,7 +42,7 @@ Here are some ideas to get you started: -->
 
 <details>
 	 <summary align= "center"> More Stats  </summary>  
-	 <p align = "center"> <img src= "https://github.com/adityathakekar/adityathakekar/blob/master/assests/github-metrics.svg"/> </p>
+	 <p align = "center"> <img src= "https://github.com/adityathakekar/adityathakekar/blob/master/github-metrics.svg"/> </p>
 </details>
 
 
