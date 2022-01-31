@@ -21,7 +21,10 @@ Here are some ideas to get you started: -->
 	
 <br>
 <br>
+<br>
+<br>
 
+	
 <h2 align="center">  📈 Stats: </h2>
 <p align="center">
 	
@@ -41,8 +44,8 @@ Here are some ideas to get you started: -->
 
 
 <details>
-	 <summary align= "center"> More Stats  </summary>  
-	 <p align = "center"> <img src= "https://github.com/adityathakekar/adityathakekar/blob/master/github-metrics.svg"/> </p>
+	 <summary align= "center"> Click to Expand!! </summary>  
+	 <h2 align="center"> More Stats: </h2> <p align="center"><img src= "https://github.com/adityathakekar/adityathakekar/blob/master/github-metrics.svg"/> </p> 
 </details>
 
 
