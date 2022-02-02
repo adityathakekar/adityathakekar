@@ -48,7 +48,9 @@ Here are some ideas to get you started: -->
 	 <h2 align="center"> More Stats: </h2> <p align="center"><img src= "https://github.com/adityathakekar/adityathakekar/blob/master/github-metrics.svg"/> </p> 
 </details>
 
-
+<br>
+	
+[Listen to My Podcast](https://anchor.fm/aditya-thakekar) 
 
 
 <h2 align="center"> Blog posts: </h2>
