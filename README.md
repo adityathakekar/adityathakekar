@@ -50,8 +50,6 @@ Here are some ideas to get you started: -->
 
 <br>
 	
-[Listen to My Podcast](https://anchor.fm/aditya-thakekar) 
-
 
 <h2 align="center"> Blog posts: </h2>
 
@@ -85,6 +83,7 @@ Here are some ideas to get you started: -->
 <a href="https://medium.com/@adityathakekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="adityathakekar" height="30" width="40" /></a>
 <a href="https://dev.to/adityathakekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="adityathakekar" height="30" width="40" /></a>
 <a href="https://twitter.com/thakekaraditya">	<img align="center" src="https://img.shields.io/twitter/follow/thakekaraditya.svg?style=social" /> 	</a>
+	<a href= "https://anchor.fm/adityathakekar"><img align="center" src= "https://upload.wikimedia.org/wikipedia/commons/e/e7/Podcasts_%28iOS%29.svg" height="30" width="40" /></a>
 <a href="https://github.com/adityathakekar">	<img align="center" src="https://en2ia68dlyr08t7.m.pipedream.net" />  </a> 
 <a href ="https://open.spotify.com/playlist/4pgl8mxRhgSAeVH9AZIlnG" target="spotify"> <img align ="right"src="https://spotify-github-aditya.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" width="300" /> </a> 
 	
