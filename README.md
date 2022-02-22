@@ -62,7 +62,6 @@ Here are some ideas to get you started: -->
 - [Microsoft Student Partners – Geek is the new rockstar](https://dev.to/gautamkrishnar/microsoft-student-partners--geek-is-the-new-rockstar)
 - [Microsoft Student Partners &lpar;Ambassadors&rpar; – Geek is the new rockstar](https://www.gautamkrishnar.com/microsoft-student-partners/)
 - [An Introduction to NumPy](https://dev.to/gautamkrishnar/an-introduction-to-numpy)
-- [Hi, I&#39;m Gautam krishna.R](https://dev.to/gautamkrishnar/hi-im-gautam-krishnar)
 - [An Intro to NumPy](https://www.gautamkrishnar.com/an-intro-to-numpy/)
 - [Lessons from an attack](https://www.gautamkrishnar.com/lessons-from-an-attack/)
 - [A guide to GitHub CLI](https://www.gautamkrishnar.com/a-guide-to-github-cli/)
