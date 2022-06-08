@@ -64,7 +64,7 @@ Here are some ideas to get you started: -->
 - [An Introduction to NumPy](https://dev.to/gautamkrishnar/an-introduction-to-numpy)
 - [An Intro to NumPy](https://www.gautamkrishnar.com/an-intro-to-numpy/)
 - [Lessons from an attack](https://www.gautamkrishnar.com/lessons-from-an-attack/)
-- [A guide to GitHub CLI](https://www.gautamkrishnar.com/a-guide-to-github-cli/)
+- [A guide to GitHub via CLI](https://www.gautamkrishnar.com/a-guide-to-github-cli/)
 - [Accelerate your startup with the support of big companies!](https://www.gautamkrishnar.com/accelerate-your-startup/)
 - [DuckDuckGo – The search engine redefined](https://dev.to/gautamkrishnar/duckduckgo-the-search-engine-redefined-4c7d)
 - [DuckDuckGo – The search engine redefined](https://www.gautamkrishnar.com/duckduckgo-the-search-engine-redefined/)
