@@ -40,7 +40,7 @@ Here are some ideas to get you started: -->
 
 <h2 align="center"> Activity: </h2>
 
-[![Aditya's Github readme activity](https://readmegraph.herokuapp.com/graph?username=adityathakekar&theme=gotham)](https://github.com/adityathakekar/github-readme-activity-graph)
+[![Aditya's Github readme activity](https://github-readme-activity-graph.cyclic.app/graph?username=adityathakekar&theme=dracula)](https://github.com/adityathakekar/github-readme-activity-graph)
 
 
 <details>
