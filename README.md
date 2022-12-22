@@ -16,9 +16,19 @@ Here are some ideas to get you started: -->
 - 👯 I’m looking to collaborate on Bluetooth Mesh protocol, ibeacon, eddystone, Wifi Mesh. [Zephyr](https://github.com/zephyrproject-rtos/zephyr)
 - 🤔 I’m looking for help with code debugging and testing standards
 - 💬 Ask me about firmware design in Embedded systems. 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/adityathakekar) & :love_letter: [Mail](mailto:connect@adityathakekar.com)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/adityathakekar) & :love_letter: [Mail](mailto:connect@adityathakekar.com) & 
+	![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white) [AT](https://adityathakekar.com)
 - ⚡ Fun fact: Always feels like I am a begineer
-	
+- 👍 Enjoy  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) [![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.svg?v=103)](https://opensource.org/licenses/GPL-3.0/)  [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)](https://opensource.org/licenses/mit-license.php)  [![TypeScript](https://badges.frapsoft.com/typescript/love/typescript.svg?v=101)](https://github.com/ellerbrock/typescript-badges/)
+- :atom: Cloud compuiting 
+![AWS-cloud](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white) ![](https://img.shields.io/badge/IBM%20Cloud-1261FE?style=for-the-badge&logo=IBM%20Cloud&logoColor=white) ![ ](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) 
+- :electron: Currently Learning 
+![](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=#5FCFEE) ![](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
+- :atom: Preffered Workflow ![](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white) ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![](	https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white) ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+- 🌏 You can also find me on ![](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white) ![](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)
+- :pushpin: Proto-platforms ![](https://img.shields.io/badge/adafruit-000000?style=for-the-badge&logo=adafruit&logoColor=white) ![](https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white) ![](https://img.shields.io/badge/micro:bit-00ED00?style=for-the-badge&logo=micro:bit&logoColor=white) ![](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white) ![](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+- 🤗Self-time ![](https://img.shields.io/badge/Amazon%20Prime-00A8E1?style=for-the-badge&logo=netflix&logoColor=white) ![](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white) ![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+
 <br>
 <br>
 <br>
@@ -49,7 +59,7 @@ Here are some ideas to get you started: -->
 </details>
 
 <br>
-	
+
 
 <h2 align="center"> Blog posts: </h2>
 
