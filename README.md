@@ -1,13 +1,11 @@
 <h1 align="center">Hi <img src="https://github.com/adityathakekar/adityathakekar/blob/master/assests/wave.gif" height="30px" width="30px"> , I'm Aditya Thakekar </h1> 
 
-<h3 align="center"><img align = "center" src="https://github.com/adityathakekar/adityathakekar/blob/master/giphy.gif" height = "200px" widht = "200px"> A passionate Embedded Firmware Developer from India </h3> 
+<h2 align="center"><img align = "center" src="https://github.com/adityathakekar/adityathakekar/blob/master/giphy.gif" height = "200px" widht = "200px"> A passionate Embedded Firmware Developer from India </h3> 
 
 <!--
 **adityathakekar/adityathakekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
-<br>
-<br>
 
 <h2 align="center"> About Me: </h2> <a href= "git"> 
 	<a href="https://app.daily.dev/adityathakekar"> <img align ="right" src="https://github.com/adityathakekar/adityathakekar/blob/master/devcard.svg" width="200" alt="Aditya Thakekar's Dev Card"/></a>
