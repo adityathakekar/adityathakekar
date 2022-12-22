@@ -29,12 +29,7 @@ Here are some ideas to get you started: -->
 - :pushpin: Proto-platforms ![](https://img.shields.io/badge/adafruit-000000?style=for-the-badge&logo=adafruit&logoColor=white) ![](https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white) ![](https://img.shields.io/badge/micro:bit-00ED00?style=for-the-badge&logo=micro:bit&logoColor=white) ![](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white) ![](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 - 🤗Self-time ![](https://img.shields.io/badge/Amazon%20Prime-00A8E1?style=for-the-badge&logo=netflix&logoColor=white) ![](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white) ![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 
-<br>
-<br>
-<br>
-<br>
-
-	
+<br>	
 <h2 align="center">  📈 Stats: </h2>
 <p align="center">
 	
