@@ -8,8 +8,6 @@
 Here are some ideas to get you started: -->
 <br>
 <br>
-<br>
-<br>
 
 <h2 align="center"> About Me: </h2> <a href= "git"> 
 	<a href="https://app.daily.dev/adityathakekar"> <img align ="right" src="https://github.com/adityathakekar/adityathakekar/blob/master/devcard.svg" width="200" alt="Aditya Thakekar's Dev Card"/></a>
