@@ -29,7 +29,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "20"
-          feed_list: "https://www.allaboutcircuits.com/latest/"
+          feed_list: "https://www.eeweb.com/feed/magazines"
           
   github-metrics:
     runs-on: ubuntu-latest
