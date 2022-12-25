@@ -59,23 +59,6 @@ Here are some ideas to get you started: -->
 <h2 align="center"> Blog posts: </h2>
 
 <!-- BLOG-POST-LIST:START -->
-- [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
-- [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
-- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
-- [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
-- [Skipping the Chrome &quot;Your connection is not private&quot; warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
-- [Microsoft Student Partners – Geek is the new rockstar](https://dev.to/gautamkrishnar/microsoft-student-partners--geek-is-the-new-rockstar)
-- [Microsoft Student Partners &lpar;Ambassadors&rpar; – Geek is the new rockstar](https://www.gautamkrishnar.com/microsoft-student-partners/)
-- [An Introduction to NumPy](https://dev.to/gautamkrishnar/an-introduction-to-numpy)
-- [An Intro to NumPy](https://www.gautamkrishnar.com/an-intro-to-numpy/)
-- [Lessons from an attack](https://www.gautamkrishnar.com/lessons-from-an-attack/)
-- [A guide to GitHub via CLI](https://www.gautamkrishnar.com/a-guide-to-github-cli/)
-- [Accelerate your startup with the support of big companies!](https://www.gautamkrishnar.com/accelerate-your-startup/)
-- [DuckDuckGo – The search engine redefined](https://dev.to/gautamkrishnar/duckduckgo-the-search-engine-redefined-4c7d)
-- [DuckDuckGo – The search engine redefined](https://www.gautamkrishnar.com/duckduckgo-the-search-engine-redefined/)
-- [Github For Beginners](https://www.gautamkrishnar.com/github-for-beginners/)
-- [A day with hackers](https://www.gautamkrishnar.com/a-day-with-hackers/)
-- [Hackathon @ VISAT](https://www.gautamkrishnar.com/hackathon-visat/)
 <!-- BLOG-POST-LIST:END -->
 
 
