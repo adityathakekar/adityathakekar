@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://github.com/adityathakekar/adityathakekar/blob/master/assests/wave.gif" height="30px" width="30px"> , I'm Aditya Thakekar </h1> 
 
-<h2 align="center"><img align = "center" src="https://github.com/adityathakekar/adityathakekar/blob/master/giphy.gif" height = "200px" widht = "200px"> A passionate Embedded Firmware Developer</h3> 
+<h2 align="center"><img align = "center" src="https://github.com/adityathakekar/adityathakekar/blob/master/giphy.gif" height = "150" widht = "150"> A passionate Embedded Firmware Developer</h3> 
 
 <!--
 **adityathakekar/adityathakekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
