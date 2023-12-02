@@ -16,8 +16,8 @@ Here are some ideas to get you started: -->
 - 👯 I’m looking to collaborate on Bluetooth Mesh protocol, ibeacon, eddystone, Wifi Mesh. [Zephyr](https://github.com/zephyrproject-rtos/zephyr)
 - 🤔 I’m looking for help with code debugging and testing standards
 - 💬 Ask me about firmware design in Embedded systems. 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/adityathakekar) & :love_letter: [Mail](mailto:connect@adityathakekar.com) & 
-	![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white) [AT](https://adityathakekar.com)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/adityathakekar) & :love_letter: [Mail](mailto:contact@adityathakekar.co.in) & 
+	![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white) [AT](https://adityathakekar.co.in)
 - ⚡ Fun fact: Always feels like I am a begineer
 - 👍 Enjoy  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) [![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.svg?v=103)](https://opensource.org/licenses/GPL-3.0/)  [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)](https://opensource.org/licenses/mit-license.php)  [![TypeScript](https://badges.frapsoft.com/typescript/love/typescript.svg?v=101)](https://github.com/ellerbrock/typescript-badges/)
 - :atom: Cloud compuiting 
