@@ -59,6 +59,10 @@ Here are some ideas to get you started: -->
 <h2 align="center"> Blog posts: </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Sensors Unleashed: Enhancing Productivity in the IoT Era](https://medium.com/@adityathakekar/sensors-unleashed-enhancing-productivity-in-the-iot-era-dd488df776fc?source=rss-1327621f896e------2)
+- [Transforming Asset Tracking with IoT:](https://medium.com/@adityathakekar/transforming-asset-tracking-with-iot-04c372cf5625?source=rss-1327621f896e------2)
+- [The Impact of IoT on the Retail Industry](https://medium.com/@adityathakekar/the-impact-of-iot-on-the-retail-industry-9012550765bb?source=rss-1327621f896e------2)
+- [Revolutionizing Industries: The Impact of Industrial IoT &lpar;IIoT&rpar; Applications](https://medium.com/@adityathakekar/revolutionizing-industries-the-impact-of-industrial-iot-iiot-applications-9ed0958f2190?source=rss-1327621f896e------2)
 <!-- BLOG-POST-LIST:END -->
 
 
