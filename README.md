@@ -57,10 +57,14 @@ Here are some ideas to get you started: -->
 
 
 <h2 align="center"> Blog posts: </h2>
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
+ 
+- 🎯 [Sensors Unleashed: Enhancing Productivity in the IoT Era](https://medium.com/@adityathakekar/sensors-unleashed-enhancing-productivity-in-the-iot-era-dd488df776fc)
+- 🎯 [Transforming Asset Tracking with IoT:](https://medium.com/@adityathakekar/transforming-asset-tracking-with-iot-04c372cf5625)
+- 🎯 [Revolutionizing-industries-the-impact-of-industrial-iot-iiot-applications](https://medium.com/@adityathakekar/revolutionizing-industries-the-impact-of-industrial-iot-iiot-applications-9ed0958f2190)
+- 🎯 [The Impact of IoT on the Retail Industry](https://medium.com/@adityathakekar/the-impact-of-iot-on-the-retail-industry-9012550765bb)
+- 🎯 [Understanding AUTOSAR: Revolutionizing Automotive System Architecture](https://blog.adityathakekar.co.in/understanding-autosar-revolutionizing-automotive-system-architecture)
+- 🎯 [Sensing the Future: A Deep Dive into Different Types of Sensors in the Electronics Field](https://blog.adityathakekar.co.in/sensing-the-future-a-deep-dive-into-different-types-of-sensors-in-the-electronics-field)
+- 🎯 [Wireless Communication Technologies for IoT:](https://blog.adityathakekar.co.in/wireless-communication-technologies-for-iot)
 
 <h2 align="center"> Connect with me: <a> <img src="https://github.com/adityathakekar/adityathakekar/blob/master/assests/connect.gif" height="32"> </a></h2>
 
