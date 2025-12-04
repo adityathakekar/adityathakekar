@@ -1,0 +1,42 @@
+<svg width="300" height="165" viewBox="0 0 300 165" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #2f80ed; }
+    .stat { font: 400 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #333; }
+    .bar-bg { fill: #eee; rx: 5; ry: 5; }
+    .bar-fill { rx: 5; ry: 5; }
+    .lang-c { fill: #555555; }
+    .lang-cpp { fill: #f34b7d; }
+    .lang-py { fill: #3572A5; }
+    .lang-arduino { fill: #00979C; }
+  </style>
+  <rect x="0.5" y="0.5" rx="4.5" width="299" height="164" stroke="#e4e2e2" fill="#fffaf0" stroke-opacity="1"/>
+  <text x="25" y="35" class="header">Aditya's Top Languages</text>
+  
+  <g transform="translate(25, 55)">
+    <text x="0" y="15" class="stat">C</text>
+    <rect x="70" y="5" width="180" height="10" class="bar-bg"/>
+    <rect x="70" y="5" width="110" height="10" class="bar-fill lang-c"/>
+    <text x="260" y="15" class="stat">60%</text>
+  </g>
+
+  <g transform="translate(25, 80)">
+    <text x="0" y="15" class="stat">C++</text>
+    <rect x="70" y="5" width="180" height="10" class="bar-bg"/>
+    <rect x="70" y="5" width="55" height="10" class="bar-fill lang-cpp"/>
+    <text x="260" y="15" class="stat">30%</text>
+  </g>
+
+  <g transform="translate(25, 105)">
+    <text x="0" y="15" class="stat">Python</text>
+    <rect x="70" y="5" width="180" height="10" class="bar-bg"/>
+    <rect x="70" y="5" width="15" height="10" class="bar-fill lang-py"/>
+    <text x="260" y="15" class="stat">8%</text>
+  </g>
+  
+    <g transform="translate(25, 130)">
+    <text x="0" y="15" class="stat">Arduino</text>
+    <rect x="70" y="5" width="180" height="10" class="bar-bg"/>
+    <rect x="70" y="5" width="5" height="10" class="bar-fill lang-arduino"/>
+    <text x="260" y="15" class="stat">2%</text>
+  </g>
+</svg>
