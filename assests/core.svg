@@ -1,0 +1,38 @@
+<svg width="500" height="300" viewBox="-250 -250 500 250" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+      text { font-family: 'Roboto', sans-serif; }
+      .title { font-size: 24px; font-weight: 700; text-anchor: middle; fill: #333; }
+      .label { font-size: 12px; text-anchor: middle; fill: #555; }
+      .percentage { font-size: 14px; font-weight: 700; text-anchor: middle; fill: #333; }
+    </style>
+  </defs>
+  
+  <text x="0" y="-220" class="title">Modern Full-Stack & Cloud Skills</text>
+
+  <path d="M -200 0 A 200 200 0 0 1 200 0 L 120 0 A 120 120 0 0 0 -120 0 Z" fill="#f0f0f0"/>
+
+  <path d="M -200 0 A 200 200 0 0 1 -161.8 -117.6 L -97.1 -70.5 A 120 120 0 0 0 -120 0 Z" fill="#f7df1e"/>
+  <path d="M -161.8 -117.6 A 200 200 0 0 1 -61.8 -190.2 L -37.1 -114.1 A 120 120 0 0 0 -97.1 -70.5 Z" fill="#3178c6"/>
+  <path d="M -61.8 -190.2 A 200 200 0 0 1 61.8 -190.2 L 37.1 -114.1 A 120 120 0 0 0 -37.1 -114.1 Z" fill="#3776ab"/>
+  <path d="M 61.8 -190.2 A 200 200 0 0 1 161.8 -117.6 L 97.1 -70.5 A 120 120 0 0 0 37.1 -114.1 Z" fill="#00add8"/>
+  <path d="M 161.8 -117.6 A 200 200 0 0 1 200 0 L 120 0 A 120 120 0 0 0 97.1 -70.5 Z" fill="#dea584"/>
+  <text x="0" y="-20" class="percentage" style="font-size: 36px;">Top 10</text>
+  <text x="0" y="10" class="label" style="font-size: 18px;">Core Competencies</text>
+
+  <g transform="translate(-180, 40)">
+    <rect x="0" y="0" width="15" height="15" fill="#f7df1e"/><text x="20" y="12" class="label" style="text-anchor: start;">JavaScript (20%)</text>
+    <rect x="0" y="25" width="15" height="15" fill="#3178c6"/><text x="20" y="37" class="label" style="text-anchor: start;">TypeScript (15%)</text>
+    <rect x="0" y="50" width="15" height="15" fill="#3776ab"/><text x="20" y="62" class="label" style="text-anchor: start;">Python (15%)</text>
+    <rect x="0" y="75" width="15" height="15" fill="#00add8"/><text x="20" y="87" class="label" style="text-anchor: start;">Go (10%)</text>
+    <rect x="0" y="100" width="15" height="15" fill="#dea584"/><text x="20" y="112" class="label" style="text-anchor: start;">Rust (10%)</text>
+  </g>
+  <g transform="translate(20, 40)">
+    <rect x="0" y="0" width="15" height="15" fill="#b07219"/><text x="20" y="12" class="label" style="text-anchor: start;">Java (8%)</text>
+    <rect x="0" y="25" width="15" height="15" fill="#7f52ff"/><text x="20" y="37" class="label" style="text-anchor: start;">Kotlin (7%)</text>
+    <rect x="0" y="50" width="15" height="15" fill="#F05138"/><text x="20" y="62" class="label" style="text-anchor: start;">Swift (5%)</text>
+    <rect x="0" y="75" width="15" height="15" fill="#e34c26"/><text x="20" y="87" class="label" style="text-anchor: start;">SQL (5%)</text>
+    <rect x="0" y="100" width="15" height="15" fill="#89e051"/><text x="20" y="112" class="label" style="text-anchor: start;">Shell (5%)</text>
+  </g>
+</svg>
