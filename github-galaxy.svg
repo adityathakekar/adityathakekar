@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="800" height="400">
+    <style>
+      .orbit { fill: none; stroke: #30363d; stroke-width: 1px; }
+      .planet-group { animation: rotate linear infinite; transform-box: fill-box; transform-origin: center; }
+      .text-label { font-family: sans-serif; fill: #c9d1d9; font-size: 10px; opacity: 0.8; }
+      .star-bg { fill: #ffffff; opacity: 0.2; }
+      @keyframes rotate { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
+      @keyframes counter-rotate { from { transform: rotate(360deg); } to { transform: rotate(0deg); } }
+    </style>
+    <rect width="100%" height="100%" fill="#0d1117" rx="10" />
+    <g transform="translate(400.0, 200.0)">
+      <circle r="40" fill="#161b22" stroke="#c9d1d9" stroke-width="2" />
+      <text y="5" text-anchor="middle" fill="#c9d1d9" font-weight="bold" font-family="sans-serif">
+        TORVALDS
+      </text>
+    </g>
+    
+        <circle cx="400.0" cy="200.0" r="80.0" class="orbit" />
+        <g transform="translate(400.0, 200.0)" style="animation-duration: 15s" class="planet-group">
+            <g transform="translate(80.0, 0)">
+                <g style="animation: counter-rotate 15s linear infinite; transform-box: fill-box; transform-origin: center;">
+                    <circle r="25" fill="#555555" stroke="#0d1117" stroke-width="2" />
+                    <text y="37" text-anchor="middle" class="text-label">linux</text>
+                </g>
+            </g>
+        </g>
+        
+        <circle cx="400.0" cy="200.0" r="101.25" class="orbit" />
+        <g transform="translate(400.0, 200.0)" style="animation-duration: 20s" class="planet-group">
+            <g transform="translate(101.25, 0)">
+                <g style="animation: counter-rotate 20s linear infinite; transform-box: fill-box; transform-origin: center;">
+                    <circle r="22.922131028708566" fill="#555555" stroke="#0d1117" stroke-width="2" />
+                    <text y="34.92213102870856" text-anchor="middle" class="text-label">uemacs</text>
+                </g>
+            </g>
+        </g>
+        
+        <circle cx="400.0" cy="200.0" r="122.5" class="orbit" />
+        <g transform="translate(400.0, 200.0)" style="animation-duration: 25s" class="planet-group">
+            <g transform="translate(122.5, 0)">
+                <g style="animation: counter-rotate 25s linear infinite; transform-box: fill-box; transform-origin: center;">
+                    <circle r="22.414237712415513" fill="#FFFFFF" stroke="#0d1117" stroke-width="2" />
+                    <text y="34.41423771241551" text-anchor="middle" class="text-label">GuitarPedal</text>
+                </g>
+            </g>
+        </g>
+        
+        <circle cx="400.0" cy="200.0" r="143.75" class="orbit" />
+        <g transform="translate(400.0, 200.0)" style="animation-duration: 30s" class="planet-group">
+            <g transform="translate(143.75, 0)">
+                <g style="animation: counter-rotate 30s linear infinite; transform-box: fill-box; transform-origin: center;">
+                    <circle r="21.624690188354958" fill="#555555" stroke="#0d1117" stroke-width="2" />
+                    <text y="33.62469018835496" text-anchor="middle" class="text-label">test-tlb</text>
+                </g>
+            </g>
+        </g>
+        
+        <circle cx="400.0" cy="200.0" r="165.0" class="orbit" />
+        <g transform="translate(400.0, 200.0)" style="animation-duration: 35s" class="planet-group">
+            <g transform="translate(165.0, 0)">
+                <g style="animation: counter-rotate 35s linear infinite; transform-box: fill-box; transform-origin: center;">
+                    <circle r="20.538192567412523" fill="#555555" stroke="#0d1117" stroke-width="2" />
+                    <text y="32.53819256741252" text-anchor="middle" class="text-label">pesconvert</text>
+                </g>
+            </g>
+        </g>
+        
+        <circle cx="400.0" cy="200.0" r="186.25" class="orbit" />
+        <g transform="translate(400.0, 200.0)" style="animation-duration: 40s" class="planet-group">
+            <g transform="translate(186.25, 0)">
+                <g style="animation: counter-rotate 40s linear infinite; transform-box: fill-box; transform-origin: center;">
+                    <circle r="20.47273918040741" fill="#FFFFFF" stroke="#0d1117" stroke-width="2" />
+                    <text y="32.47273918040741" text-anchor="middle" class="text-label">1590A</text>
+                </g>
+            </g>
+        </g>
+        </svg>
