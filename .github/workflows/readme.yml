@@ -40,7 +40,7 @@ jobs:
     - name: Generate images
       run: |
         python3 --version
-        # Ensure your python script is actually named 'generate_images.py'
+        # Ensure your python script is actually named 'generate_galaxy.py'
         python3 generate_images.py
       env:
         # Make sure 'ACCESS_TOKEN' is added in your Repo Settings -> Secrets
