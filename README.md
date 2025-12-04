@@ -38,8 +38,8 @@ Here are some ideas to get you started: -->
 </p>
 
 <p align="center">
-	<img width="48%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityathakekar&layout=compact&theme=calm" />
-        <img width="48%" height= "190" src= "https://github.com/adityathakekar/github-stats/blob/master/generated/languages.svg" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityathakekar&layout=compact&theme=calm" />
+    <img width="48%" height="190" src="https://raw.githubusercontent.com/adityathakekar/github-stats/master/generated/languages.svg" />
 </p>
 
 
