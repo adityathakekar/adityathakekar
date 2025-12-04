@@ -11,40 +11,36 @@ jobs:
   build:
     runs-on: ubuntu-latest
     
-    # FIX 1: Grant permission to write/push changes to the repo
     permissions:
       contents: write
 
     steps:
-    - uses: actions/checkout@v3 # Updated to v3 (better standard)
+    - uses: actions/checkout@v3
 
     - name: Set up Python 3.8
-      uses: actions/setup-python@v4 # Updated to v4
+      uses: actions/setup-python@v4
       with:
         python-version: '3.8'
         architecture: 'x64'
 
-    - uses: actions/cache@v3 # Updated to v3
+    - uses: actions/cache@v3
       with:
         path: ~/.cache/pip
         key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
         restore-keys: |
           ${{ runner.os }}-pip-
 
-    - name: Install requirements
+    - name: Install dependencies
       run: |
         python3 -m pip install --upgrade pip setuptools wheel
-        # Ensure requirements.txt exists before running this
+        pip install requests
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-        
-   
+
     - name: Generate images
       run: |
         python3 --version
-        # Ensure your python script is actually named 'generate_galaxy.py'
         python3 generate_galaxy.py
       env:
-        # Make sure 'ACCESS_TOKEN' is added in your Repo Settings -> Secrets
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }} 
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         EXCLUDED: ${{ secrets.EXCLUDED }}
@@ -53,15 +49,9 @@ jobs:
 
     - name: Commit to the repo
       run: |
-        # FIX 2: Git requires BOTH name and email
         git config --global user.name "adityathakekar"
         git config --global user.email "adityathakekar@users.noreply.github.com"
         
         git add .
-        # The '|| echo' prevents failure if there are no changes to commit
         git commit -m 'Update generated files' || echo "No changes to commit"
         git push
-
-    - name: Install dependencies
-    run: pip install requests
-
