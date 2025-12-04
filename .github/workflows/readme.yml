@@ -36,7 +36,8 @@ jobs:
         python3 -m pip install --upgrade pip setuptools wheel
         # Ensure requirements.txt exists before running this
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-
+        
+   
     - name: Generate images
       run: |
         python3 --version
@@ -60,3 +61,7 @@ jobs:
         # The '|| echo' prevents failure if there are no changes to commit
         git commit -m 'Update generated files' || echo "No changes to commit"
         git push
+
+    - name: Install dependencies
+    run: pip install requests
+
