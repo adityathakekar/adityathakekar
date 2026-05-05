@@ -66,28 +66,94 @@ Here are some ideas to get you started: -->
 - 🎯 [Sensing the Future: A Deep Dive into Different Types of Sensors in the Electronics Field](https://blog.adityathakekar.co.in/sensing-the-future-a-deep-dive-into-different-types-of-sensors-in-the-electronics-field)
 - 🎯 [Wireless Communication Technologies for IoT:](https://blog.adityathakekar.co.in/wireless-communication-technologies-for-iot)
 
-<h2 align="center"> Connect with me: <a> <img src="https://github.com/adityathakekar/adityathakekar/blob/master/assests/connect.gif" height="32"> </a></h2>
+<h2 align="center"> Connect with me: <img src="https://github.com/adityathakekar/adityathakekar/blob/master/assests/connect.gif" height="32"></h2>
 
-<p align="center">
-<a href="https://twitter.com/thakekaraditya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thakekaraditya" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/adityathakekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityathakekar" height="30" width="40" /></a>
-<a href="https://medium.com/@adityathakekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="adityathakekar" height="30" width="40" /></a>
-<a href="https://dev.to/adityathakekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="adityathakekar" height="30" width="40" /></a>
-<a href="https://twitter.com/thakekaraditya">	<img align="center" src="https://img.shields.io/twitter/follow/thakekaraditya.svg?style=social" /> 	</a>
-<a href= "https://anchor.fm/adityathakekar"><img align="center" src= "https://upload.wikimedia.org/wikipedia/commons/e/e7/Podcasts_%28iOS%29.svg" height="30" width="40" /></a>
-<a href="https://github.com/adityathakekar">	<img align="center" src="https://en2ia68dlyr08t7.m.pipedream.net" />  </a> 
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://twitter.com/thakekaraditya" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thakekaraditya" height="30" width="40" /></a>
+    </td>
+    <td align="center">
+      <a href="https://linkedin.com/in/adityathakekar" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityathakekar" height="30" width="40" /></a>
+    </td>
+    <td align="center">
+      <a href="https://medium.com/@adityathakekar" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="adityathakekar" height="30" width="40" /></a>
+    </td>
+    <td align="center">
+      <a href="https://dev.to/adityathakekar" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="adityathakekar" height="30" width="40" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://twitter.com/thakekaraditya" target="_blank"><img src="https://img.shields.io/twitter/follow/thakekaraditya.svg?style=social" alt="Twitter Follow" /></a>
+    </td>
+    <td align="center">
+      <a href="https://anchor.fm/adityathakekar" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Podcasts_%28iOS%29.svg" alt="Podcasts" height="30" width="40" /></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/adityathakekar" target="_blank"><img src="https://en2ia68dlyr08t7.m.pipedream.net" alt="GitHub Profile" /></a>
+    </td>
+    <td align="center"></td>
+  </tr>
+</table>
 
 <p align="center"> 
 <a href ="https://open.spotify.com/playlist/4pgl8mxRhgSAeVH9AZIlnG" target="spotify"> <img src="https://spotify-github-aditya.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" width="300" /> </a> </p>
 
-<h2 align="center">  Languages & Tools: </h2>
+<h2 align="center">Languages & Tools:</h2>
 
-<p align="center"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </a> <a href="https://www.st.com/content/st_com/en.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/f/f3/STMicroelectronics_logo.svg" alt="STM" width="40" height="40"/> </a>
-<a href="https://www.nordicsemi.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Nordic_Semiconductor_Company_Logo.svg" alt="NRF" width="40" height="40"/> </a><a href="https://www.bluetooth.com//" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Bluetooth.svg" alt="NRF" width="40" height="40"/> </a>
-<a href="https://https://www.raspberrypi.org//" target="_blank" rel="noreferrer"> <img src="https://elinux.org/images/c/cb/Raspberry_Pi_Logo.svg" alt="RPI" width="40" height="40"/> </a>
-</p>
-
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
+    </td>
+    <td align="center">
+      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
+    </td>
+    <td align="center">
+      <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
+    </td>
+    <td align="center">
+      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+    </td>
+    <td align="center">
+      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+    </td>
+    <td align="center">
+      <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+    </td>
+    <td align="center">
+      <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
+    </td>
+    <td align="center">
+      <a href="https://www.st.com/content/st_com/en.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/f/f3/STMicroelectronics_logo.svg" alt="STM" width="40" height="40"/></a>
+    </td>
+    <td align="center">
+      <a href="https://www.nordicsemi.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Nordic_Semiconductor_Company_Logo.svg" alt="NRF" width="40" height="40"/></a>
+    </td>
+    <td align="center">
+      <a href="https://www.bluetooth.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Bluetooth.svg" alt="Bluetooth" width="40" height="40"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://elinux.org/images/c/cb/Raspberry_Pi_Logo.svg" alt="RPI" width="40" height="40"/></a>
+    </td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+</table>
 
 <h2 align="center">  Recent : </h2>
 	
